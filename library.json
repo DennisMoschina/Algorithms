@@ -7,6 +7,10 @@
         "sort",
         "select"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DennisMoschina/Algorithms.git"
+    },
     "authors": {
         "name": "Dennis Moschina",
         "maintainer": true
