@@ -1,0 +1,15 @@
+{
+    "name": "Algorithms",
+    "version": "1.0.0",
+    "description": "a collection of basic algorithms",
+    "keywords": [
+        "quicksort",
+        "sort",
+        "select"
+    ],
+    "authors": {
+        "name": "Dennis Moschina",
+        "maintainer": true
+    },
+    "platforms": "*"
+}
